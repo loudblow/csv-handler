@@ -53,8 +53,7 @@ $ python3 main.py --file products.csv
 ```
 ## Filtering the contents
 ```bash
-$ python3 main.py --file products.csv --where "brand=appl
-e"
+$ python3 main.py --file products.csv --where "brand=apple"
 +----------------+---------+---------+----------+
 | name           | brand   |   price |   rating |
 +================+=========+=========+==========+
